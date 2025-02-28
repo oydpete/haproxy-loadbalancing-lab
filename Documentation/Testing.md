@@ -30,7 +30,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
         sudo apt install -y apache2-utils 
 
 
-![alt text](documentation/screenshots/install_tester.png)
+![alt text](../documentation/screenshots/install_tester.png)
 
 *******
 
@@ -55,7 +55,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-   ![alt text](<Documentation/first stat.png>)
+   ![alt text](<../Documentation/Screenshot/first stat.png>)
 
 
 
