@@ -67,7 +67,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result1:**
 
-   ![alt text](<../../../Desktop/NexaCloud/Machine/health check final.png>)
+   ![alt text](<../Documentation/Sreenshot/health check final.png>)
 
 
 ### Health Check Logs
@@ -80,7 +80,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-![alt text](<../../../Desktop/NexaCloud/Machine/health check.png>)
+![alt text](<../Documentation/Sreenshot/health check.png>)
 
 
 
@@ -105,7 +105,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/least conn state.png>)
+  ![alt text](<../Documentation/Sreenshot/least conn state.png>)
 
 
 ### **Load Distribution Test**
@@ -117,7 +117,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/least connnect out1.png>)
+  ![alt text](<../Documentation/Sreenshot/least connnect out1.png>)
 
 ### Health check logs
 
@@ -128,7 +128,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/least conn log 2.png>)
+  ![alt text](<../Documentation/Sreenshot/least conn log 2.png>)
 
 
 # IP hash Algorithm
@@ -144,7 +144,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-![alt text](<../../../Desktop/NexaCloud/Machine/hash stATE.png>)
+![alt text](<../Documentation/Sreenshot/hash stATE.png>)
 
 
 
@@ -158,7 +158,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/hash output 1.png>)
+  ![alt text](<../Documentation/Sreenshot/hash output 1.png>)
 
 
 ### Health check logs
@@ -170,7 +170,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/hash log.png>)
+  ![alt text](<../Documentation/Sreenshot/hash log.png>)
 
 
 
