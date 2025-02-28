@@ -54,7 +54,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-   ![alt text](<../Documentation/Sreenshot/first stat.png>)
+   ![alt text](../Documentation/Sreenshot/first stat.png)   
 
 
 
