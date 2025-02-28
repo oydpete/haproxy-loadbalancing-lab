@@ -163,7 +163,7 @@
 
      http://192.168.56.14
 
-  ![alt text](<Documentation/Sreenshot/output machine 1.png>)
+  ![alt text](<../Documentation/Sreenshot/output machine 1.png>)
 
 * The ip address bounce between machine 1 & 2 at interval 
 
