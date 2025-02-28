@@ -79,7 +79,7 @@
 
 * Evidence of Machines Running
 
-![alt text](<Documentation/Screenshot /evidence.png>)
+![alt text](<Documentation/Screenshot/evidence.png>)
 
 ![alt text](<../../../Desktop/NexaCloud/Machine/Machine Runnig .png>)
 
