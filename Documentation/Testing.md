@@ -55,7 +55,7 @@ Test different algorithms for Round-robin, Least connections, IP hash:
 
 * **Result:**
 
-   ![alt text](<../../../Desktop/NexaCloud/Machine/first stat.png>)
+   ![alt text](<Documentation/first stat.png>)
 
 
 
