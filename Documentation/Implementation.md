@@ -79,13 +79,13 @@
 
 * Evidence of Machines Running
 
-![alt text](../../../Desktop/NexaCloud/Machine/evidence.png)
+![alt text](../Documentation/Sreenshot/evidence.png)
 
-![alt text](<../../../Desktop/NexaCloud/Machine/Machine Runnig .png>)
+![alt text](<../Documentation/Sreenshot/Machine Runnig .png>)
 
-![alt text](<../../../Desktop/NexaCloud/Machine/vagrant 2.png>)
+![alt text](<../Documentation/Sreenshot/vagrant 2.png>)
 
-![alt text](<../../../Desktop/NexaCloud/Machine/vagrant 1.png>)
+![alt text](<../Documentation/Sreenshot/vagrant 1.png>)
 
 ### STEP 3 : Load Content into Machines
 
@@ -113,8 +113,8 @@
 
 * Display Content of vm1 & vm2
 
-        ![alt text](<../../../Desktop/NexaCloud/Machine/Machien 2 cotent.png>)
-        ![alt text](<../../../Desktop/NexaCloud/Machine/Machiine 2 content.png>)
+        ![alt text](<../Documentation/Sreenshot/Machien 2 cotent.png>)
+        ![alt text](<../Documentation/Sreenshot/Machiine 2 content.png>)
 
 
 ## 2. Install and configure HAProxy as load balancer on a different VM
@@ -167,7 +167,7 @@
 
 * The ip address bounce between machine 1 & 2 at interval 
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/proxy output 2.png>)
+  ![alt text](<../Documentation/Sreenshot/proxy output 2.png>)
 
 
 ## **TASK3:**
@@ -193,7 +193,7 @@
 
 Screenshot: 
 
-   ![alt text](<../../../Desktop/NexaCloud/Machine/haproxy correct.png>)
+   ![alt text](<../Documentation/Sreenshot/haproxy correct.png>)
 
 ## Least Connect Algorithm
 
@@ -209,7 +209,7 @@ Screenshot:
         sudo systemctl restart haproxy
 * Screenshot: 
 
-  ![alt text](<../../../Desktop/NexaCloud/Machine/least connect confg file.png>)
+  ![alt text](<../Documentation/Sreenshot/least connect confg file.png>)
 
 ## IP Hash Algorithm
 
