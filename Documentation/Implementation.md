@@ -113,8 +113,8 @@
 
 * Display Content of vm1 & vm2
 
-        ![alt text](<../Documentation/Sreenshot/Machien 2 cotent.png>)
-        ![alt text](<../Documentation/Sreenshot/Machiine 2 content.png>)
+   ![alt text](<../Documentation/Sreenshot/Machien 2 cotent.png>)
+  ![alt text](<../Documentation/Sreenshot/Machiine 2 content.png>)
 
 
 ## 2. Install and configure HAProxy as load balancer on a different VM
