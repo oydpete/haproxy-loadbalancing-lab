@@ -26,13 +26,13 @@ Set up HAProxy as a load balancer for two web servers with different content. Im
 ## Repository Structure
 
 - **haproxy-loadbalancing-lab/**
-  - configs/
-    - haproxy.cfg
+  - [configs/](https://github.com/oydpete/haproxy-loadbalancing-lab/tree/main/configs)
+    - [haproxy.cfg](https://github.com/oydpete/haproxy-loadbalancing-lab/blob/main/configs/haproxy.cfg)
 
   - documentation/
     - [implementation.md](https://github.com/oydpete/haproxy-loadbalancing-lab/blob/main/Documentation/Implementation.md)
-    - testing.md
-    - screenshots/
+    - [testing.md](https://github.com/oydpete/haproxy-loadbalancing-lab/blob/main/Documentation/Testing.md)
+    - [screenshots/](https://github.com/oydpete/haproxy-loadbalancing-lab/tree/main/Documentation/Sreenshot)
       - haproxy_stats_round_robin.png
       - haproxy_stats_least_connections.png
       - haproxy_stats_ip_hash.png
