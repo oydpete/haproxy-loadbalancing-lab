@@ -42,10 +42,13 @@ Set up HAProxy as a load balancer for two web servers with different content. Im
 ## OBSERVATION & CONCLUSION
 It was observed from the Load Distribution test that the IP Hash Algorithm, Least Connection Algorithm and Round-robin Algorithm had an average of
 
-0.044s, 0.042s, 0.040 for time taken for tests respectively
-2271.49, 2405.64 , 2509.78 request per second respectively
-4.402ms, 4.157ms, 3.986 Time per request(maean) respectively
-592.27kb/s, 627.25kb/s , 654.14 and Transfer rate respectively
+* 0.044s, 0.042s, 0.040 for time taken for tests respectively
+
+* 2271.49, 2405.64 , 2509.78 request per second respectively
+  
+* 4.402ms, 4.157ms, 3.986 Time per request(maean) respectively
+  
+* 592.27kb/s, 627.25kb/s , 654.14 and Transfer rate respectively
 
 
 ## CONCLUSION
